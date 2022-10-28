@@ -1,0 +1,12 @@
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\bin\Debug\net6.0\CoreBussiness.deps.json
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\bin\Debug\net6.0\CoreBussiness.dll
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\bin\Debug\net6.0\CoreBussiness.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.dll
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\refint\CoreBussiness.dll
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\CoreBussiness.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreBussiness\obj\Debug\net6.0\ref\CoreBussiness.dll

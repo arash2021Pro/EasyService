@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\bin\Debug\net6.0\CoreApplication.deps.json
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\bin\Debug\net6.0\CoreApplication.dll
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\bin\Debug\net6.0\CoreApplication.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\bin\Debug\net6.0\CoreBussiness.dll
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\bin\Debug\net6.0\CoreBussiness.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.csproj.CopyComplete
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.dll
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\refint\CoreApplication.dll
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\CoreApplication.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreApplication\obj\Debug\net6.0\ref\CoreApplication.dll

@@ -1,0 +1,12 @@
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\bin\Debug\net6.0\CoreStructure.deps.json
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\bin\Debug\net6.0\CoreStructure.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\bin\Debug\net6.0\CoreStructure.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\refint\CoreStructure.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\CoreStructure.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreStructure\obj\Debug\net6.0\ref\CoreStructure.dll

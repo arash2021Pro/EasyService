@@ -1,0 +1,17 @@
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\bin\Debug\net6.0\CoreStrorage.deps.json
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\bin\Debug\net6.0\CoreStrorage.runtimeconfig.json
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\bin\Debug\net6.0\CoreStrorage.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\bin\Debug\net6.0\CoreStrorage.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\bin\Debug\net6.0\CoreBussiness.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\bin\Debug\net6.0\CoreBussiness.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.csproj.CopyComplete
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\refint\CoreStrorage.dll
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.pdb
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\CoreStrorage.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\EasyService\CoreStrorage\obj\Debug\net6.0\ref\CoreStrorage.dll
